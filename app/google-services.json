@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484173667507",
+    "firebase_url": "https://greanglobe.firebaseio.com",
+    "project_id": "greanglobe",
+    "storage_bucket": "greanglobe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484173667507:android:fdeb759eb12ecd36",
+        "android_client_info": {
+          "package_name": "dev.tharushawijayabahu.gps_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484173667507-umm61su36j93ekgqmqrn0be0duld9ud1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.tharushawijayabahu.gps_tracker",
+            "certificate_hash": "66147d3223a322d797c222d31f24685c96b2d5b3"
+          }
+        },
+        {
+          "client_id": "484173667507-uavq88mhefskplib29liutbgqdr151vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOlWLZsafG0EI0Ge-abOnj828kaO0Ldhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484173667507-uavq88mhefskplib29liutbgqdr151vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
