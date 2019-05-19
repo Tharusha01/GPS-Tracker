@@ -127,6 +127,5 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
             }
         });
-        //geoFire.removeLocation(userId);
     }
 }
